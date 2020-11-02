@@ -1,7 +1,8 @@
 body {
-    background-image: url(/BrandingWebsite/imgs/Background\ image\ for\ page\ 1.jpg);
+    background-image: url(/imgs/Background\ image\ for\ page\ 1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+    
 }
 .wf {
     outline: 1px solid black;
@@ -15,3 +16,8 @@ body {
 .row {
     max-height: 500px;
 }
+ h2 h6 {
+    font-family: 'Arya', sans-serif;
+ }
+
+ 
