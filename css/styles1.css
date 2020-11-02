@@ -1,0 +1,17 @@
+body {
+    background-image: url(/BrandingWebsite/imgs/Background\ image\ for\ page\ 1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.wf {
+    outline: 1px solid black;
+}
+.ns {
+    background-color: silver;
+}
+.ns2 {
+    background-color: gray;
+}
+.row {
+    max-height: 500px;
+}
